@@ -1,0 +1,54 @@
+Használati útmutató:
+
+Ajánlott a játékot JetBrains termékkel használni.
+
+Billyentűzet:
+-a : mozgás a játékossal balra
+-d : mozgás a játékossal jobbra
+-w : mozgás a játékossal fel
+-s : mozgás a játékossal le
+-q : mozgás a játékossal átlósan fel balra
+-e : mozgás a játékossal átlósan fel jobbra
+-c : mozgás a játékossal átlósan le jobbra
+-y : mozgás a játékossal átlósan le balra
+-u : burgonya evés
+-i : hal evés
+-o : ivás
+-p : tűzhely készítés
+-j : víztisztító készítés
+-k : háló készítés
+-l : lándzsa készítés
+-b : burgonya sütés
+-n : hal sütés
+-m : víztisztítás
+-g : halászás
+-f : hajó bővítés
+
+Éhség:
+-100-ról indul, folyamatosan csökken, ha 0 akkor vége a játéknak
+-cápával találkozva egyből 0 lesz
+-sült burgonya evés +60
+-sült hal evés +60
+
+Szomjúság:
+-100-ról indul, folyamatosan csökken, ha 0 akkor vége a játéknak
+-cápával találkozva egyből 0 lesz
+-ivás +40
+
+Étel készítés:
+-25 cselekvés alatt lehet halat/burgonyát sütni, ami fogyasztható lesz
+
+Víztisztítás:
+-40 cselekvés alatt készül el a tiszta víz
+
+Max 1 távolságról:
+-hajó bővítése
+-háló készítése
+
+Cápatámadás:
+-a hajó területén nem árt a cápa a játékosnak
+-ha van lándzsa a játékos birtokában, akkor a cápával való találkozás során, a cápa elmenekül bizonyos távolságot megtéve
+-ellenkező esetben vége a játéknak
+
+Halászat:
+-csak a vízben lehetséges, 25% esély van rá
